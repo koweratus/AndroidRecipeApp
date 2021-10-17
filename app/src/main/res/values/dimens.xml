@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="infoWindowPadding">10dp</dimen>
+    <dimen name="ivWidth">300dp</dimen>
+    <dimen name="ivHeight">150dp</dimen>
+    <dimen name="llAboutPadding">20dp</dimen>
+    <dimen name="tvAbout">50sp</dimen>
+    <dimen name="nhWidth">162dp</dimen>
+    <dimen name="nhHeight">300dp</dimen>
+</resources>

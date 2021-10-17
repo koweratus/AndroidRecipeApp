@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159019320147",
+    "project_id": "guglmaps",
+    "storage_bucket": "guglmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159019320147:android:9c6ce65ac87ee61a3797a6",
+        "android_client_info": {
+          "package_name": "com.example.projektanz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159019320147-jpm1i2h110o24sh8sv6n020ket8civig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkB1oyisG9yzUmIGsKaOycYIcJSFyC_G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159019320147-jpm1i2h110o24sh8sv6n020ket8civig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
